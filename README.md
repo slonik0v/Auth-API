@@ -1,6 +1,6 @@
 # MiniAuth API
 
-## Установка
+## Легкая Установка
 
 ```bash
 pip install -r requirements.txt
